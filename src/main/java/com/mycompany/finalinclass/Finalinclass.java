@@ -17,8 +17,12 @@ public class Finalinclass {
         System.out.println("Gill Jatti 99 ");
         System.out.println("Simranjeet Kaur ");
         System.out.println("kullu branch ");
+<<<<<<< HEAD
         System.out.println("loyalist college ");
         
+=======
+        System.out.println("simran branch ");
+>>>>>>> simran
         
         
     }
