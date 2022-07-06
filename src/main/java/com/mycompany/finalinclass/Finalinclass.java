@@ -13,14 +13,7 @@ public class Finalinclass {
 
     public static void main(String[] args) {
         System.out.println("Loyalist College ");
-<<<<<<< HEAD
-        System.out.println("Branch30 ");
-     
-=======
-        
-        System.out.println("Branch 50 ");
->>>>>>> Branch30
-        
+
         
     }
 }
