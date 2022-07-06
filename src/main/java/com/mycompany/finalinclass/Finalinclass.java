@@ -13,12 +13,7 @@ public class Finalinclass {
 
     public static void main(String[] args) {
         System.out.println("Loyalist College ");
-        System.out.println("Branch200 ");
-        System.out.println("Brandhdh ");
-        
-        
 
-    System.out.println("branch100 ");
-        
+
     }
 }
