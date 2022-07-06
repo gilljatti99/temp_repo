@@ -15,6 +15,6 @@ public class Finalinclass {
         System.out.println("Keshav Chopra  ");
         System.out.println("Vishal Kanwal ");
         System.out.println("Gill Jatti 99 ");
-        System.out.println("Simran ");
+        System.out.println("Simranjeet ");
     }
 }
