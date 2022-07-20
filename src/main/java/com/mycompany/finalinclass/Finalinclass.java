@@ -21,5 +21,6 @@ public class Finalinclass {
         System.out.println("test branch 2");
         System.out.println("test branch 4");
         System.out.println("navraj");
+        System.out.println("navraj2);
     }
 }
