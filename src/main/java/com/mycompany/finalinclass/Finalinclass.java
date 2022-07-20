@@ -14,7 +14,7 @@ public class Finalinclass {
     public static void main(String[] args) {
         System.out.println("Loyalist College ");
         System.out.println("kuldeep gill ");
-        
+        System.out.println("gilljatti ");
        
 
 
