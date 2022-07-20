@@ -23,5 +23,6 @@ public class Finalinclass {
         System.out.println("navraj");
         System.out.println("navraj2");
         System.out.println("branch1");
+         System.out.println("branch44");
     }
 }
