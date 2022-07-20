@@ -15,6 +15,7 @@ public class Finalinclass {
         System.out.println("Loyalist College ");
         System.out.println("kuldeep gill ");
         System.out.println("gilljatti ");
+        System.out.println("gilljatti_loyalist ");
        
 
 
